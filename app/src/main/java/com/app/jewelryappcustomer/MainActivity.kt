@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        linear=findViewById(R.id.linear_layout)
+        linear=findViewById(R.id.linear)
 
     }
 }
